@@ -490,7 +490,7 @@ footer {
     height: 150px; /* 이미지에서 측정한 로고 높이 */
     background-color: #f0f0f0; /* 로고 placeholder */
     flex-shrink: 0; /* 로고가 찌그러지지 않게 */
-    background: url('img/푸터\ 로고.svg') no-repeat center center;
+    background: url('img/footerlogo.svg') no-repeat center center;
     background-size: contain;
     /* 실제 로고 사용 시:
     background: url('your-logo-image.png') no-repeat center center;
